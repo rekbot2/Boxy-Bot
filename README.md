@@ -2,6 +2,8 @@
 
 Discord Bot written for personal use.
 
+To run: Change discord login credidentials located at the bottom of Boxy.py. Run Boxy.py.
+
 
 Necessary libraries:
 
